@@ -14,6 +14,7 @@ and open the template in the editor.
       echo ('Raboti li - test?');  // put your code here
       echo ('Nov red');
       echo ('oshe edin red');
+      echo ('Drug red');
         ?>
     </body>
 </html>

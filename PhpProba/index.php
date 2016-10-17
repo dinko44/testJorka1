@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
       echo ('Raboti li - test?');  // put your code here
+      echo ('Nov red');
         ?>
     </body>
 </html>
